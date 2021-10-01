@@ -1,0 +1,160 @@
+#s3-h1 {
+  color: #22dbde;
+}
+.s3-m {
+  background-image: url("../Icons/screen3.svg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-position-x: left;
+  position: relative;
+}
+.background-s-8-r {
+  background-image: url("../Icons/LineBR.svg");
+  background-repeat: no-repeat;
+}
+#S-9-h3 {
+  background-image: url("../Icons/Group\ 36.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+#S-9-h4 {
+  background-image: url("../Icons/LineBR.svg");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#screen-11-r {
+  background-image: url("../Icons/Screen11.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 5rem;
+}
+#s-8-l {
+  background-image: url("../Icons/Select-bro.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#s-9-l {
+  background-image: url("../Icons/Robot.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#s-10-l {
+  background-image: url("../Icons/OnlineShopping.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#s-12-l {
+  background-image: url("../Icons/Devices.png");
+  /* background-position: bottom; */
+  background-repeat: no-repeat;
+  /* background-size: contain;  */
+  background-position: center;
+  background-size: cover;
+  padding: 5rem;
+}
+#s-14-l {
+  background-image: url("../Icons/PairProgramming.png");
+  /* background-position: bottom; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  /* background-size: cover; */
+  padding: 5rem;
+}
+#s-15-bg {
+  background-image: url("../Icons/screen15bg.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#s-18-b {
+  background-image: url("../Icons/screen-18-bg.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#bg-1-img {
+  background-image: url("../Icons/LineBR.svg");
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-position: bottom;
+  /* margin-right: 0 !important;  */
+  background-position-x: left;
+}
+
+#three {
+  background-image: url("../Icons/screen3.svg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position-y: center;
+}
+
+.background-s-8-r {
+  background-image: url("../Icons/LineBR.svg");
+  background-repeat: no-repeat;
+}
+#S-9-h3 {
+  background-image: url("../Icons/Group\ 36.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+#S-9-h4 {
+  background-image: url("../Icons/LineBR.svg");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#screen-21-l {
+  background-image: url("../Icons/bank_form.svg");
+  background-position: top right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#S-17-h4 {
+  background-image: url("../Icons/9.svg");
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#S-2-h4 {
+  background-image: url("../Icons/Logo2.svg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#mobile {
+  background-repeat: no-repeat;
+  background-position: right;
+  background-image: url("../Icons/12.svg");
+  background-size: cover;
+}
+#screen-19 {
+  background-repeat: no-repeat;
+  background-image: url("../Icons/screen_19.svg");
+  background-size: cover;
+}
+#screen-7 {
+  background-repeat: no-repeat;
+  background-image: url("../Icons/screen_7.svg");
+  background-size: cover;
+  background-position: center;
+}
+@media (max-width: 480px) {
+  #Screen-18-pd {
+    padding-top: 30rem;
+  }
+}
+@media (min-width: 481px) and (max-width: 1024px) {
+  #Screen-18-pd {
+    padding-top: 35rem;
+  }
+}
+@media (min-width: 1025px) {
+  #Screen-18-pd {
+    padding-top: 16rem;
+  }
+}
